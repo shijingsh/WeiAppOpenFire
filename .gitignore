@@ -1,0 +1,10 @@
+.idea/*
+.DS_Store
+.swp
+node_modules/
+build/
+.cache/
+emedia_for_wx/
+src/sdk/sdk/*
+src/miniprogram_npm/*
+
